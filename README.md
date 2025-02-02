@@ -1,1 +1,2 @@
 # django_projectwith_as_project
+有一个media文件因为太大没有上传，里面有apk，image
